@@ -1,4 +1,3 @@
 ###Git Practice Repo
 
-change in master
-changes in master again
+testing new branch, playing with rebase, changes again
